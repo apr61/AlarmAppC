@@ -1,0 +1,7 @@
+#ifndef MAIN_H
+#define MAIN_H
+
+#define MAX_ALARMS 2
+enum ALARM_OPTIONS {ALL_ALARMS = 1, NEW_ALARM, EDIT_ALARM, DELETE_ALARM};
+
+#endif
